@@ -1,7 +1,7 @@
 .idea/
 .mvn/
-/target/
 mvnw
 mvnw.cmd
 client.iml
 server.iml
+target/
